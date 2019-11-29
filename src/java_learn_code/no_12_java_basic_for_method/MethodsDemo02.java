@@ -2,7 +2,6 @@ package java_learn_code.no_12_java_basic_for_method;
 /**
  * 调用方法打印矩形
  * @author Jole
- *
  */
 public class MethodsDemo02 {
 
