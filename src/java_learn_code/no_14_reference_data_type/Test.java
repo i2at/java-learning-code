@@ -1,4 +1,4 @@
-package java_learn_code.no14_reference_data_type;
+package java_learn_code.no_14_reference_data_type;
 
 public class Test {
 	public static void main(String[] args) {
