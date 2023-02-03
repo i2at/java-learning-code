@@ -8,9 +8,9 @@ public class BasicDataTypeTwo {
 
 	public static void main(String[] args) {
 		int [] arr = {1,2,43,4};
-		System.out.println(arr[2]);
+// 		System.out.println(arr[2]);
 		change(arr);
-		System.out.println(arr[2]);
+// 		System.out.println(arr[2]);
 	}
 	public static void change(int[] a) {
 		a[2]=100;
