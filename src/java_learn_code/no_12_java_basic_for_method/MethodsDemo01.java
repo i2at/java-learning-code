@@ -11,7 +11,7 @@ public class MethodsDemo01 {
 		int wight =5;
 		//调用求和的方法
 		int sum = getSum(length, wight);
-		System.out.println(sum);
+// 		System.out.println(sum);
 	}
 	
 	//求和方法
