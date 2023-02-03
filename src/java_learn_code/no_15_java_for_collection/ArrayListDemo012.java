@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class ArrayListDemo012 {
 	public static void main(String[] args) {
-        // 创建ArrayList集合
+                // 创建ArrayList集合
 		ArrayList<String> list = new ArrayList<String>();
 		// 向集合中添加元素
 		list.add("stu1");
