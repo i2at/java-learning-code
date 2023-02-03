@@ -6,8 +6,8 @@ public class PersonDemo {
 		Person p = new Person();
 //		p.age = -20; // 给Person对象赋值
 //		p.name = "人妖";
-		p.setAge(10);
-		p.show(); // 调用Person的show方法
+// 		p.setAge(10);
+// 		p.show(); // 调用Person的show方法
 	}
 	
 	int age;
